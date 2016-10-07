@@ -1,0 +1,7 @@
+entregable:
+    resource: "@EntregableBundle/Resources/config/routing.yml"
+    prefix:   /Entregable
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
